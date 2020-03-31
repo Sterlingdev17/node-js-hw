@@ -1,0 +1,23 @@
+{
+  "name": "firsthw",
+  "version": "1.0.0",
+  "description": "this my first node homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sterlingdev17/node-js-hw.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Sterling Etienne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sterlingdev17/node-js-hw/issues"
+  },
+  "homepage": "https://github.com/Sterlingdev17/node-js-hw#readme"
+}
