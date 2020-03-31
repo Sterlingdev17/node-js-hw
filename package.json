@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Sterlingdev17/node-js-hw/issues"
   },
-  "homepage": "https://github.com/Sterlingdev17/node-js-hw#readme"
+  "homepage": "https://github.com/Sterlingdev17/node-js-hw#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.1.0"
+  }
 }
